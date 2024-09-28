@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Apps\\SOLID_Principles\\SOLIDPrinciples\\SOLIDPrinciples.csproj",
-      "projectName": "SOLIDPrinciples",
-      "projectPath": "C:\\Apps\\SOLID_Principles\\SOLIDPrinciples\\SOLIDPrinciples.csproj",
+      "projectUniqueName": "C:\\Apps\\SOLID_Principles\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj",
+      "projectName": "InterfaceSegregationPrinciple",
+      "projectPath": "C:\\Apps\\SOLID_Principles\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj",
       "packagesPath": "C:\\Users\\Okan\\.nuget\\packages\\",
-      "outputPath": "C:\\Apps\\SOLID_Principles\\SOLIDPrinciples\\obj\\",
+      "outputPath": "C:\\Apps\\SOLID_Principles\\InterfaceSegregationPrinciple\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Okan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,9 +63,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
