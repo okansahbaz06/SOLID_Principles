@@ -1,0 +1,11 @@
+SOLID PRINCIPLES
+
+Single Responsibility Principle: A class should have only one responsibility. When we feel the need to change a class, it generally means that the class should perform only one task.
+
+Open-Closed Principle: A class should maintain its existing features and be closed to modifications. However, it should be open for extension to add new features.
+
+Liskov Substitution Principle: Subclasses should be able to substitute for their superclass. This means that any part of your code should be able to work with subclasses instead of the superclass.
+
+Interface Segregation Principle: Instead of loading all operations of a class onto a single interface, we should create multiple interfaces according to needs.
+
+Dependency Inversion Principle: High-level classes should not be directly dependent on low-level classes. Dependencies should be provided through abstractions.
