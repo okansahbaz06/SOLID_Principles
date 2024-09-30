@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NWTWeFy563I=",
+  "dgSpecHash": "Aak0xFMvsMk+oO8mfnnrjk/L+NyIVN65bOhD8cshNPHrHLHnWEjDBvsfTAjzU/EWXX0l01HY3BDa0eb9XyK6XA==",
   "success": true,
-  "projectFilePath": "C:\\Apps\\SOLID_Principles\\DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj",
+  "projectFilePath": "D:\\C# Çalışmalar\\SOLID_Principles\\DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

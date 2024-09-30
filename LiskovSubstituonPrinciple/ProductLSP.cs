@@ -28,7 +28,7 @@ namespace LiskovSubstituonPrinciple
 
         public void CheckStock()
         {
-            // alt sınıflar üst sınıfın yerine geçiyor.
+            //Subclasses replace the superclass.
             Product product = new AcerComputer();
             product.HasStock();
 

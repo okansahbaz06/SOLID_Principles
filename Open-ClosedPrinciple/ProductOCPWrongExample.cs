@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Open_ClosedPrinciple
 {
-    public class ProductWrongExample
+    public class ProductOCPWrongExample
     {
 
         //Bu örnekte değişime açık geliştirmeye kapalı yanlış bir örnek var, her yeni bir ürün eklediğimiz var olan kodu değiştirmek durumunda kaldığımız için bu yap Open-Closed prensibine uymayacaktır.

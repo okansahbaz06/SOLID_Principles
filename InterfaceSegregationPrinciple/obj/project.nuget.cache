@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bzRf4tv2CGo=",
+  "dgSpecHash": "5CVhTxlzqYdBrl1aFzKFDn+Plv/8PaAxYfiO5+X4QXttlSVTu7eDbp4CRY8152Jenk1rxmFVtu7OUIdNP8AodA==",
   "success": true,
-  "projectFilePath": "C:\\Apps\\SOLID_Principles\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj",
+  "projectFilePath": "D:\\C# Çalışmalar\\SOLID_Principles\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

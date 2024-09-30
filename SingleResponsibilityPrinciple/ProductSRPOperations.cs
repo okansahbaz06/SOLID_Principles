@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SingleResponsibilityPrinciple
 {
-    public class ProductOperations
+    public class ProductSRPOperations
     {
         //The Single Responsibility Principle states that a class should have only one responsibility.
         //Therefore, in this example, the Product Operations class should contain only methods related to product operations.

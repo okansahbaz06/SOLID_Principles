@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e5hFsCwjvg0=",
+  "dgSpecHash": "f/0TglCGIYVrxR0RtJLcJTrJVBFHw+/+MYn7zWfBUwFfYe1zOozEGeR/0qA/nHNYfrvxD5RnZ0YvBs462PudKg==",
   "success": true,
-  "projectFilePath": "C:\\Apps\\SOLID_Principles\\LiskovSubstituonPrinciple\\LiskovSubstituonPrinciple.csproj",
+  "projectFilePath": "D:\\C# Çalışmalar\\SOLID_Principles\\LiskovSubstituonPrinciple\\LiskovSubstituonPrinciple.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

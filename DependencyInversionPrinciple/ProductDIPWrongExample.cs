@@ -8,7 +8,7 @@ namespace DependencyInversionPrinciple
 {
 
     //As seen in this example, the upper-level class ProductStockOperations is dependent on lower-level classes. Every time a new operation is added, the upper-level class needs to be modified again, which makes this example violate the Dependency Inversion Principle.
-    public class ProductStockWrongExample
+    public class ProductDIPWrongExample
     {
         public void CheckBedStock()
         {
